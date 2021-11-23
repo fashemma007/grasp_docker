@@ -13,7 +13,7 @@ app.get("/", (req, res) =>
         },
         {
             name: "Jake",
-            email: "jam@gmail.com",
+            email: "jake@gmail.com",
         },
         {
             name: "Maria",
